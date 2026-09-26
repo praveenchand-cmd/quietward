@@ -18,4 +18,4 @@ public repo, separate from the private app code.
    - Privacy Policy URL: `https://<your-username>.github.io/quietward/privacy.html`
 6. Replace `praveenchand-cmd` in `App/Core/AppLinks.swift` and `docs/APP_STORE_LISTING.md`.
 
-Before submitting to the App Store, replace `[publication date]` in `privacy.html` with the real date.
+When the policy changes, update the "Last updated" date in `privacy.html` and `docs/PRIVACY_POLICY.md`.
